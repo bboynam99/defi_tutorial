@@ -9,7 +9,7 @@ class Navbar extends Component {
         <a
           className="navbar-brand col-sm-3 col-md-2 mr-0"
           href="#"
-          target="_blank"
+          target="_self"
           rel="noopener noreferrer"
         >
           <img src={farmer} width="30" height="30" className="d-inline-block align-top" alt="" />
